@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct StructHero {
+struct StructHero: NSObject {
     var name: String
     var universe: String
     
