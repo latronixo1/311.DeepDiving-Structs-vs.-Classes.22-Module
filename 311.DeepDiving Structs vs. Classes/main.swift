@@ -9,6 +9,3 @@ import Foundation
 
 let hero = StructHero(name: "Iron Man", universe: "Marvel")
 
-hero.name = "Cat Woman"
-hero.universe = "DC"
-//hero = ClassHero()  //Cannot assign to value: 'hero' is a 'let' constant
