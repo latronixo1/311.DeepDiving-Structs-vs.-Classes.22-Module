@@ -12,7 +12,7 @@ struct StructHero {
     var universe: String
     
     //функция, возвращающая массив Character, представляющий собой переменную name в обратном порядке (Hulk -> kluH)
-    func reverseName() -> String {
+    mutating func reverseName() {
         self.name = String(self.name.reversed())
     }
 
