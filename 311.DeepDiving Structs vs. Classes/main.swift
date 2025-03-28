@@ -7,7 +7,7 @@
 
 import Foundation
 
-let hero = ClassHero(name: "Iron Man", universe: "Marvel")
+let hero = StructHero(name: "Iron Man", universe: "Marvel")
 
 hero.name = "Cat Woman"
 hero.universe = "DC"
