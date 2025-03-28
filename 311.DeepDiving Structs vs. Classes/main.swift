@@ -7,15 +7,8 @@
 
 import Foundation
 
-var hero = StructHero(name: "Iron Man", universe: "Marvel")
+let hero = ClassHero(name: "Iron Man", universe: "Marvel")
 
-var anotherMarvelHero = hero
-anotherMarvelHero.name = "The Hulk"
-
-var avengers = [hero, anotherMarvelHero]    // перевод - "мстители"
-
-avengers[0].name = "Thor"
-
-print("hero name = \(hero.name)")
-print("anotherMarvelHero name = \(anotherMarvelHero.name )")
-print("first avenger name = \(avengers[0].name)")
+hero.name = "Cat Woman"
+hero.universe = "DC"
+//hero = ClassHero()  //Cannot assign to value: 'hero' is a 'let' constant
