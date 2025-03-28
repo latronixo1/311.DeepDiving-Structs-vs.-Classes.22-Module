@@ -19,7 +19,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		6BB614912D967E97001A86B8 /* 311.DeepDiving Structs vs. Classes */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "311.DeepDiving Structs vs. Classes"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6BB614912D967E97001A86B8 /* 311.DeepDiving Structs vs. Classes.22 Module */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "311.DeepDiving Structs vs. Classes.22 Module"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -52,7 +52,7 @@
 		6BB614922D967E97001A86B8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6BB614912D967E97001A86B8 /* 311.DeepDiving Structs vs. Classes */,
+				6BB614912D967E97001A86B8 /* 311.DeepDiving Structs vs. Classes.22 Module */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -60,9 +60,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6BB614902D967E97001A86B8 /* 311.DeepDiving Structs vs. Classes */ = {
+		6BB614902D967E97001A86B8 /* 311.DeepDiving Structs vs. Classes.22 Module */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6BB614982D967E97001A86B8 /* Build configuration list for PBXNativeTarget "311.DeepDiving Structs vs. Classes" */;
+			buildConfigurationList = 6BB614982D967E97001A86B8 /* Build configuration list for PBXNativeTarget "311.DeepDiving Structs vs. Classes.22 Module" */;
 			buildPhases = (
 				6BB6148D2D967E97001A86B8 /* Sources */,
 				6BB6148E2D967E97001A86B8 /* Frameworks */,
@@ -75,11 +75,11 @@
 			fileSystemSynchronizedGroups = (
 				6BB614932D967E97001A86B8 /* 311.DeepDiving Structs vs. Classes */,
 			);
-			name = "311.DeepDiving Structs vs. Classes";
+			name = "311.DeepDiving Structs vs. Classes.22 Module";
 			packageProductDependencies = (
 			);
 			productName = "311.DeepDiving Structs vs. Classes";
-			productReference = 6BB614912D967E97001A86B8 /* 311.DeepDiving Structs vs. Classes */;
+			productReference = 6BB614912D967E97001A86B8 /* 311.DeepDiving Structs vs. Classes.22 Module */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6BB6148C2D967E97001A86B8 /* Build configuration list for PBXProject "311.DeepDiving Structs vs. Classes" */;
+			buildConfigurationList = 6BB6148C2D967E97001A86B8 /* Build configuration list for PBXProject "311.DeepDiving Structs vs. Classes.22 Module" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -111,7 +111,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6BB614902D967E97001A86B8 /* 311.DeepDiving Structs vs. Classes */,
+				6BB614902D967E97001A86B8 /* 311.DeepDiving Structs vs. Classes.22 Module */,
 			);
 		};
 /* End PBXProject section */
@@ -270,7 +270,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6BB6148C2D967E97001A86B8 /* Build configuration list for PBXProject "311.DeepDiving Structs vs. Classes" */ = {
+		6BB6148C2D967E97001A86B8 /* Build configuration list for PBXProject "311.DeepDiving Structs vs. Classes.22 Module" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6BB614962D967E97001A86B8 /* Debug */,
@@ -279,7 +279,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6BB614982D967E97001A86B8 /* Build configuration list for PBXNativeTarget "311.DeepDiving Structs vs. Classes" */ = {
+		6BB614982D967E97001A86B8 /* Build configuration list for PBXNativeTarget "311.DeepDiving Structs vs. Classes.22 Module" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6BB614992D967E97001A86B8 /* Debug */,
