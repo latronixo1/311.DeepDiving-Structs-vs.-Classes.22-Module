@@ -7,7 +7,7 @@
 
 import Foundation
 
-var hero = ClassHero(name: "Iron Man", universe: "Marvel")
+var hero = StructHero(name: "Iron Man", universe: "Marvel")
 
 var anotherMarvelHero = hero
 anotherMarvelHero.name = "The Hulk"
